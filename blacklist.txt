@@ -1,0 +1,3 @@
+/^https?:\/\/medium\.com/
+/^https?:\/\/qastack\./
+/^https?:\/\/towardsdatascience\.com/
