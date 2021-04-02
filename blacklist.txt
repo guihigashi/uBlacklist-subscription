@@ -1,3 +1,4 @@
 /^https?:\/\/medium\.com/
 /^https?:\/\/qastack\./
 /^https?:\/\/towardsdatascience\.com/
+/^https?:\/\/wikidiff\.com/
