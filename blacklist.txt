@@ -2,3 +2,4 @@
 /^https?:\/\/qastack\./
 /^https?:\/\/towardsdatascience\.com/
 /^https?:\/\/wikidiff\.com/
+/^https?:\/\/gitmemory\.com/
