@@ -3,3 +3,4 @@
 /^https?:\/\/towardsdatascience\.com/
 /^https?:\/\/wikidiff\.com/
 /^https?:\/\/gitmemory\.com/
+/^https?:\/\/www\.codegrepper\.com/
