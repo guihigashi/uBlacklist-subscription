@@ -5,3 +5,4 @@
 /^https?:\/\/gitmemory\.com/
 /^https?:\/\/www\.codegrepper\.com/
 /^https?:\/\/betterprogramming\.pub/
+/^https?:\/\/javascript\.plainenglish\.io/
