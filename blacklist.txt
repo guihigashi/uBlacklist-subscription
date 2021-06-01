@@ -6,3 +6,4 @@
 /^https?:\/\/www\.codegrepper\.com/
 /^https?:\/\/betterprogramming\.pub/
 /^https?:\/\/javascript\.plainenglish\.io/
+/^https?:\/\/bleepcoder\.com/
