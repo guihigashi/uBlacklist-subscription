@@ -7,3 +7,4 @@
 /^https?:\/\/betterprogramming\.pub/
 /^https?:\/\/javascript\.plainenglish\.io/
 /^https?:\/\/bleepcoder\.com/
+/^https?:\/\/www\.ti-enxame\.com/
