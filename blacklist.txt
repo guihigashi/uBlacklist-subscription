@@ -2,7 +2,7 @@
 /^https?:\/\/qastack\./
 /^https?:\/\/towardsdatascience\.com/
 /^https?:\/\/wikidiff\.com/
-/^https?:\/\/(www\.)?gitmemory\.com/
+/^https?:\/\/(www\.)?git(hub)?memory\.com/
 /^https?:\/\/www\.codegrepper\.com/
 /^https?:\/\/betterprogramming\.pub/
 /^https?:\/\/javascript\.plainenglish\.io/
