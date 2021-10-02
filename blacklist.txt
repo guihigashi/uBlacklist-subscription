@@ -1,11 +1,10 @@
-/^https?:\/\/medium\.com/
-/^https?:\/\/qastack\./
-/^https?:\/\/towardsdatascience\.com/
-/^https?:\/\/wikidiff\.com/
 /^https?:\/\/(www\.)?git(hub)?memory\.com/
-/^https?:\/\/www\.codegrepper\.com/
 /^https?:\/\/betterprogramming\.pub/
-/^https?:\/\/javascript\.plainenglish\.io/
 /^https?:\/\/bleepcoder\.com/
-/^https?:\/\/www\.ti-enxame\.com/
+/^https?:\/\/javascript\.plainenglish\.io/
 /^https?:\/\/newbedev\.com/
+/^https?:\/\/qastack\./
+/^https?:\/\/wikidiff\.com/
+/^https?:\/\/www\.codegrepper\.com/
+/^https?:\/\/www\.slant\.co/
+/^https?:\/\/www\.ti-enxame\.com/
