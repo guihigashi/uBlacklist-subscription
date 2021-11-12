@@ -9,3 +9,4 @@
 /^https?:\/\/www\.slant\.co/
 /^https?:\/\/www\.ti-enxame\.com/
 /^https?:\/\/www\.adoclib\.com/
+/^https?:\/\/pretagteam\.com/
