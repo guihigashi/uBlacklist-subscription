@@ -10,3 +10,4 @@
 /^https?:\/\/www\.ti-enxame\.com/
 /^https?:\/\/www\.adoclib\.com/
 /^https?:\/\/pretagteam\.com/
+/^https?:\/\/issueexplorer.com/
