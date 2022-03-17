@@ -11,3 +11,7 @@
 /^https?:\/\/www\.adoclib\.com/
 /^https?:\/\/pretagteam\.com/
 /^https?:\/\/issueexplorer.com/
+/^https?:\/\/golang.hotexamples.com/
+/^https?:\/\/www.socketloop.com/
+/^https?:\/\/golangexample.com/
+/^https?:\/\/www.stackshare.io/
