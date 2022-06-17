@@ -12,6 +12,5 @@
 /qastack\./
 /slant\.co/
 /socketloop\.com/
-/stackshare\.io/
 /ti-enxame\.com/
 /wikidiff\.com/
